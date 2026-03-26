@@ -1,4 +1,7 @@
-﻿#include<iostream>
+Q # 1:
+Take a username as input. If length < 5 → "Too short", if > 15 → "Too long", else → "Username accepted."
+	
+#include<iostream>
 #include<string>
 #include<cstring>
 
